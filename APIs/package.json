@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  },
+  "name": "APIs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "HeydayKK",
+  "license": "MIT"
+}
