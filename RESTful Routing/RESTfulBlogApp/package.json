@@ -1,0 +1,13 @@
+{
+  "name": "RESTfulBlogApp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "HeydayKK",
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1"
+  }
+}
