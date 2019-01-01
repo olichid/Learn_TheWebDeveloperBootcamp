@@ -1,4 +1,4 @@
-H1 RESTful Routes
+# RESTful Routes
 A table of all 7 RESTful Routes
 
 |Name | Path | HTTP Verb | Purpose      |
