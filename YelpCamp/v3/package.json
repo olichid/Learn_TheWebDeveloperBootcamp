@@ -1,0 +1,11 @@
+{
+  "name": "v3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "heydaykk",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.6"
+  }
+}
